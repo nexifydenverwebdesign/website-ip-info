@@ -45,10 +45,40 @@ The script will output the IP address of the website and additional information 
 
 Example output:
 
-Enter a website URL (e.g., www.google.com): google.com
-IP Address of google.com: 142.250.72.14
-Location: Mountain View, California, United States
-Latitude: 37.4056, Longitude: -122.0775
-ISP: Google LLC
-Organisation: Google LLC
-AS (Autonomous System): AS15169
+### Example Output
+
+<table>
+  <tr>
+    <td><strong>Enter a website URL:</strong></td>
+    <td><code>google.com</code></td>
+  </tr>
+  <tr>
+    <td><strong>IP Address:</strong></td>
+    <td><span style="color: blue;"><code>142.250.72.14</code></span></td>
+  </tr>
+  <tr>
+    <td><strong>Location:</strong></td>
+    <td><span style="color: green;"><code>Mountain View, California, United States</code></span></td>
+  </tr>
+  <tr>
+    <td><strong>Latitude:</strong></td>
+    <td><code>37.4056</code></td>
+  </tr>
+  <tr>
+    <td><strong>Longitude:</strong></td>
+    <td><code>-122.0775</code></td>
+  </tr>
+  <tr>
+    <td><strong>ISP:</strong></td>
+    <td><span style="color: darkorange;"><code>Google LLC</code></span></td>
+  </tr>
+  <tr>
+    <td><strong>Organisation:</strong></td>
+    <td><span style="color: darkorange;"><code>Google LLC</code></span></td>
+  </tr>
+  <tr>
+    <td><strong>AS (Autonomous System):</strong></td>
+    <td><span style="color: purple;"><code>AS15169</code></span></td>
+  </tr>
+</table>
+
